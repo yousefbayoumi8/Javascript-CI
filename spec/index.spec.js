@@ -4,8 +4,4 @@ describe("Index tests:", () =>
 		{
 			expect(true).toBe(true);
 		});
-		it("Simple test faile", () =>
-		{
-			expect(true).toBe(false);
-		});
 	});

@@ -18,7 +18,7 @@ repo.
 ```YAML
 version: 2.1
 jobs:                                         
-  build_and_test:                               
+  build:                               
     docker:                                   
       - image: circleci/node:8
     steps:
